@@ -1,12 +1,30 @@
-- 👋 Hi, I’m SAFiN AHMED MARUF
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contract number: +8801400559979
-- 📨 Whatsapp: +8801311923632
-- ⚡ Pronoun: SAM
+### Hi there 👋
 
-<!---
-samaruf34/samaruf34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hellow, I'm [Safin Ahmed Maruf !](https://www.facebook.com/arox999) 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="safinahmedmaruf" /> </p>
+
+<a href="https://twitter.com/SafinAhmedMaruf">
+  <img align="left" alt="Pawan's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="github.com/samaruf34">
+  <img align="left" alt="Safin's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/Safin_Ahmed_Maruf">
+  <img align="left" alt="Safin's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/arox999">
+  <img align="left" alt="Safin's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/AEROX_999">
+  <img align="left" alt="Safin's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/>
+
+## 📫 How to reach me:
+
+| Facebook | Telegram | Twitter | Youtube | 
+| :---: | :---: | :---: | :---: |
+| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/arox99o/) <p><b><a href="https://www.facebook.com/100094378147829/">Safin Ahmed Maruf</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/) <p><b><a href="https://t.me/safin_ahmed_maruf">SAFIN AHMED MARUF</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/SafinAhmedMaruf) <p><b><a href="https://twitter.com/SafinAhmedMaruf">SafinAhmedMaruf</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/) <p><b><a href="https://www.youtube.com/c/AEROX_999">AEROX_999</a><b></p>  |
